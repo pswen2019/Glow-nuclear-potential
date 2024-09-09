@@ -1,0 +1,11 @@
+{
+  "imgsize": 24,
+  "channels": 14,
+  "nclass": 10,
+  "patch_size": 6,
+  "dim": 256,
+  "depth": 8,
+  "heads": 8,
+  "mlpdim": 256,
+  "pool": "cls"
+}
